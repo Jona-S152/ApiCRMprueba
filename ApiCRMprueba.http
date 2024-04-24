@@ -1,0 +1,6 @@
+@ApiCRMprueba_HostAddress = http://localhost:5197
+
+GET {{ApiCRMprueba_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
